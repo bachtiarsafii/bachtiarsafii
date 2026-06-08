@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Bachtiar Syafii 👋
 
-<!--
-**bachtiarsafii/bachtiarsafii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure & Network Engineer with hands-on experience in enterprise IT operations, network administration, system support, and infrastructure management.
 
-Here are some ideas to get you started:
+Currently working as IT Support, supporting operational systems, network infrastructure, end-user devices, and branch technology services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Areas of Focus
+
+* Network Infrastructure
+* Network Security
+* Infrastructure Automation
+* System Administration
+* Cloud Infrastructure
+* IT Operations
+* AI Assisted Operations
+
+---
+
+## 🛠 Core Technologies
+
+* Cisco
+* MikroTik
+* Fortinet
+* VMware
+* Linux
+* Python
+* AWS
+* Windows Server
+* Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 🔐 Network Security
+
+Implementation of firewall policies, network segmentation, monitoring, and security hardening across enterprise environments.
+
+### ⚙️ Infrastructure Automation
+
+Automation workflows for operational efficiency, infrastructure provisioning, and administrative tasks.
+
+### ☁️ Cloud Infrastructure
+
+Learning and implementing AWS and hybrid infrastructure solutions focused on scalability and operational reliability.
+
+### 🤖 AI Assisted Operations
+
+Exploration of AI-powered workflows to improve operational processes, monitoring, and productivity.
+
+---
+
+## 💼 Professional Experience
+
+**IT Support**
+
+Supporting enterprise IT operations, user services, network connectivity, infrastructure maintenance, troubleshooting, and technology deployment.
+
+---
+
+## 📫 Connect
+
+* LinkedIn: linkedin.com/in/safiibachtiar
+* GitHub: github.com/bachtiarsafii
+
+---
+
+Building secure, reliable, and scalable infrastructure solutions.

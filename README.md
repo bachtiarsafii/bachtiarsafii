@@ -63,8 +63,8 @@ Supporting enterprise IT operations, user services, network connectivity, infras
 ## 📫 Connect
 
 * Email: mochammadsafiibachtiar@gmail.com
-* LinkedIn: linkedin.com/in/safiibachtiar
-* GitHub: github.com/bachtiarsafii
+* LinkedIn: [linkedin.com/in/safiibachtiar](https://www.linkedin.com/in/safiibachtiar/)
+* GitHub: [github.com/bachtiarsafii](https://github.com/bachtiarsafii)
 
 ---
 
